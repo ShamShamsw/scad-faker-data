@@ -1,0 +1,10 @@
+num_customers: 50
+countries:
+  - USA
+  - Canada
+  - UK
+  - Australia
+  - Germany
+  - France
+min_age: 18
+max_age: 80
