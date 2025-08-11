@@ -1,0 +1,12 @@
+num_orders: 200
+min_quantity: 1
+max_quantity: 10
+min_price: 5.0
+max_price: 500.0
+order_statuses:
+  - pending
+  - shipped
+  - delivered
+  - cancelled
+start_year: 2023
+end_year: 2025
