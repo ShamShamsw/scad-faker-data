@@ -1,0 +1,12 @@
+num_products: 100
+categories:
+  - Electronics
+  - Clothing
+  - Food
+  - Office Supplies
+  - Sports
+  - Home & Garden
+min_price: 5.0
+max_price: 500.0
+min_stock: 0
+max_stock: 1000
