@@ -17,10 +17,11 @@ scad-faker-data/
 │   ├── products_config.yaml
 │   ├── orders_config.yaml
 │   └── customers_config.yaml
-├── output/                 # All generated datasets (CSV, JSON, etc.) All data is already being used so this section is not relevant but a good practice
+├── output/                 # All generated datasets (CSV, JSON, etc.) 
 │   ├── products_fake.csv
 │   ├── orders_fake.csv
 │   └── customers_fake.csv
+# All data is already being used so this section is not relevant but a good practice
 ├── requirements.txt        # Python dependencies for faker scripts
 ├── README.md               # This documentation
 └── .github/
